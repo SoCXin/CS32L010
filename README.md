@@ -1,8 +1,8 @@
 ﻿# [Nano100](https://github.com/sochub/Nano100) 
 [![sites](SoC/qitas.png)](http://www.qitas.cn) 
 ####  qitas@qitas.cn
-#### 父级：[STM32F4](https://github.com/sochub/STM32F4)
-#### 归属：[Cortex-M4](https://github.com/sochub/CM4) 
+#### 父级：[nuvoton](https://github.com/sochub/nuvoton)
+#### 归属：[Cortex-M0](https://github.com/sochub/CM0) 
 ### [芯片简介](https://github.com/sochub/Nano100/wiki)
 
 NuMicro™ Nano100 系列特色为超低功耗，低电压工作范围1.8V至3.6V，工作温度：-40℃至85℃，内建12MHz高精度晶振(1%准确度)。
